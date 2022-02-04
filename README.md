@@ -7,4 +7,4 @@ Designed and programmed by Muhammad Bilal.
 Just a mini project to test my C language limits on how much knowledge I had when I
 was learning C.
 
-<img src="./templates/temp.PNG" />
+![Alt text](/templates/temp1.PNG?raw=true "Demo")
